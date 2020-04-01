@@ -4,7 +4,6 @@
     "repository": "https://github.com/gomods/athens",
     "logo": "https://raw.githubusercontent.com/gomods/athens/master/docs/static/banner.png",
     "keywords": ["go", "modules", "proxy", "golang"],
-    "image": "gomods/athens:v0.8.1",
     "buildpacks": [
         {
            "url": "heroku/go"
