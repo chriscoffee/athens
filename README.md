@@ -9,6 +9,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/gomods/athens.svg?maxAge=604800)](https://hub.docker.com/r/gomods/athens/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Open Source Helpers](https://www.codetriage.com/gomods/athens/badges/users.svg)](https://www.codetriage.com/gomods/athens)
+[![One Click Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Welcome to the Athens project! We are a proxy server for the [Go Modules download API](https://docs.gomods.io/intro/protocol/).
 
