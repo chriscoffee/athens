@@ -1,1 +1,0 @@
-web: bin/athens-proxy -config_file=/config/config.toml
