@@ -5,11 +5,6 @@
     "logo": "https://raw.githubusercontent.com/gomods/athens/master/docs/static/banner.png",
     "keywords": ["go", "modules", "proxy", "golang"],
     "image": "gomods/athens",
-    "env": {
-        "ATHENS_MONGO_STORAGE_URL": {
-            "description": "Secret for MongoDB URL created by Heroku"
-        }
-    },
     "addons": [
         {
           "plan": "mongolab:sandbox",
